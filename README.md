@@ -12,10 +12,10 @@ Direct control of output DC ports of StellarMate Pro
 ```
 
 ```
-  smpro_power.py dc1 on | off
-  smpro_power.py dc2 on | off
-  smpro_power.py dc3 on | off
-  smpro_power.py dc4 on | off
-  smpro_power.py all on | off
-  smpro_power.py status
+  smpro-power.py dc1 on | off
+  smpro-power.py dc2 on | off
+  smpro-power.py dc3 on | off
+  smpro-power.py dc4 on | off
+  smpro-power.py all on | off
+  smpro-power.py status
 ```
